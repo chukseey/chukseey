@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chuks Abel johnson
 - 👀 I’m interested to work as a freelance and hybrid positions 
-- 🌱 I’m currently learning Data Analysis 
+- 🌱 I’m currently working as Data Analysis 
 - 💞️ I’m looking to collaborate on open source project 
 - 📫 How to reach me by Email @ chukseey@outlook.com
 
